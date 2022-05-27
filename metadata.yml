@@ -1,0 +1,14 @@
+---
+:id: 126524251
+:submitters:
+- :name: Fangyi Wang
+  :email: fw2155@nyu.edu
+- :name: Zecheng Zhang
+  :email: zz3523@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-15 21:13:26.634230000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-15 14:13:26.634230000 Z
+:status: processed
+:score: 1.0
